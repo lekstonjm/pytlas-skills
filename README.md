@@ -1,0 +1,10 @@
+boujour
+list
+remider
+calendar
+countdown
+joke
+blackjack
+magic
+the-room
+translate
